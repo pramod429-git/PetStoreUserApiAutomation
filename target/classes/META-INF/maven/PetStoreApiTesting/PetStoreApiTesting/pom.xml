@@ -4,7 +4,7 @@
   <artifactId>PetStoreApiTesting</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-    <!-- 🔥 ADD THIS BLOCK -->
+    <!-- ADD THIS BLOCK -->
   <properties>
       <maven.compiler.source>17</maven.compiler.source>
       <maven.compiler.target>17</maven.compiler.target>
